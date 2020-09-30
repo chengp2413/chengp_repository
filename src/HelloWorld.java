@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("第一次输出："+love);
         love="test_2";
         System.out.println("第二次输出："+love);
+        System.out.println("nice");
     }
 }
